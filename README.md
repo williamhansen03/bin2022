@@ -1,5 +1,5 @@
 # bin2022
-Uppslag för Drupal 9 subtheme till Stenungsunds Biodlarförening.
+Ett Bootstrap Barrio subtheme för Drupal 9 till Stenungsunds Biodlarförening.
 
 ![GitHub contributors](https://img.shields.io/github/contributors/tcstenungsund/bin2022)
 ![GitHub repo size](https://img.shields.io/github/repo-size/tcstenungsund/bin2022)
