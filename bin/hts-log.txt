@@ -1,0 +1,33 @@
+HTTrack3.49-2 launched on Mon, 07 Feb 2022 13:15:09 at https://stenungsundsbi.se/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://stenungsundsbi.se/ -O "/home/alex/websites/bin" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:16:49	Warning: 	Retry after error -4 (No data (connection closed)) at link https://stenungsundsbi.se/about/Senaste nytt.html (from https://stenungsundsbi.se/)
+13:17:52	Error: 	"Bad Request" (400) at link https://fonts.googleapis.com/css?family=undefined%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%2Citalic%2Cregular&subset=all (from https://stenungsundsbi.se/contact.html)
+13:17:58	Error: 	"Not Found" (404) at link https://stenungsundsbi.se/onewebmedia/artiklar.htm (from https://stenungsundsbi.se/onewebmedia/lasvart.1.htm)
+13:18:43	Warning: 	Retry after error -4 (No data (connection closed)) at link https://stenungsundsbi.se/____impro/1/onewebmedia/tarta.jpg?etag=%228b85-5c582ff2%22&sourceContentType=image%2Fjpeg&ignoreAspectRatio&resize=330,248 (from https://stenungsundsbi.se/our%2520work.html)
+13:18:43	Warning: 	Retry after error -4 (No data (connection closed)) at link https://stenungsundsbi.se/onewebstatic/c9a7c65593.js (from https://stenungsundsbi.se/our%2520work.html)
+13:18:43	Warning: 	Retry after error -4 (No data (connection closed)) at link https://stenungsundsbi.se/onewebmedia/Bibladet 2019_liten.pdf (from https://stenungsundsbi.se/about/services.html)
+13:18:44	Warning: 	Retry after error -4 (No data (connection closed)) at link https://stenungsundsbi.se/onewebmedia/blad2010.pdf (from https://stenungsundsbi.se/about/services.html)
+13:18:44	Warning: 	HTML file (97545 bytes) retransferred due to lack of cache: https://stenungsundsbi.se/about/Senaste nytt.html
+13:18:45	Warning: 	Retry after error -4 (No data (connection closed)) at link https://stenungsundsbi.se/____impro/1/onewebmedia/Finkenborg.JPG?etag=%2217384-5c5840a4%22&sourceContentType=image%2Fjpeg&ignoreAspectRatio&resize=940%2B725&extract=0%2B128%2B940%2B155&quality=85 (from https://stenungsundsbi.se/contact.html)
+13:18:48	Warning: 	Retry after error -4 (No data (connection closed)) at link https://stenungsundsbi.se/____impro/1/onewebmedia/komperöd.jpg?etag=%221d8b3-5c585ed6%22&sourceContentType=image%2Fjpeg&quality=85&withoutEnlargement&resize=80 (from https://stenungsundsbi.se/blandat.html)
+13:18:48	Warning: 	Retry after error -4 (No data (connection closed)) at link https://stenungsundsbi.se/____impro/1/onewebmedia/komperöd.jpg?etag=%221d8b3-5c585ed6%22&sourceContentType=image%2Fjpeg&quality=80 (from https://stenungsundsbi.se/blandat.html)
+13:18:48	Warning: 	HTML file (4059 bytes) retransferred due to lack of cache: https://stenungsundsbi.se/onewebmedia/lasvart.1.htm
+13:18:51	Warning: 	Retry after error -4 (No data (connection closed)) at link https://stenungsundsbi.se/onewebstatic/48af776aef.png (from https://stenungsundsbi.se/bilder.html)
+13:18:51	Warning: 	Retry after error -4 (No data (connection closed)) at link https://stenungsundsbi.se/onewebstatic/5eead363dc.png (from https://stenungsundsbi.se/bilder.html)
+13:18:51	Warning: 	Retry after error -4 (No data (connection closed)) at link https://stenungsundsbi.se/onewebstatic/25e873eaf6.png (from https://stenungsundsbi.se/bilder.html)
+13:18:51	Warning: 	Retry after error -4 (No data (connection closed)) at link https://stenungsundsbi.se/____impro/1/onewebmedia/DSCN1776.JPG?etag=%2229abb5-5c5c0b84%22&sourceContentType=image%2Fjpeg&ignoreAspectRatio&resize=210,157&extract=10,0,188,157 (from https://stenungsundsbi.se/about/Senaste nytt.html)
+13:18:52	Error: 	"Not Found" (404) at link https://stenungsundsbi.se/onewebmedia/image31.jpg (from https://stenungsundsbi.se/onewebmedia/lasvart.1.htm)
+13:18:52	Error: 	"Not Found" (404) at link https://stenungsundsbi.se/onewebmedia/2-bikubo.gif (from https://stenungsundsbi.se/onewebmedia/lasvart.1.htm)
+13:18:52	Error: 	"Not Found" (404) at link https://stenungsundsbi.se/onewebmedia/arrow.gif (from https://stenungsundsbi.se/onewebmedia/lasvart.1.htm)
+13:18:52	Error: 	"Not Found" (404) at link https://stenungsundsbi.se/onewebmedia/vespa3.jpg (from https://stenungsundsbi.se/onewebmedia/lasvart.1.htm)
+13:18:52	Error: 	"Not Found" (404) at link https://stenungsundsbi.se/onewebmedia/struts.jpg (from https://stenungsundsbi.se/onewebmedia/lasvart.3.htm)
+13:18:52	Warning: 	Retry after error -4 (No data (connection closed)) at link https://stenungsundsbi.se/____impro/1/onewebmedia/komperöd.jpg?etag=%221d8b3-5c585ed6%22&sourceContentType=image%2Fjpeg&quality=85&withoutEnlargement&resize=80 (from https://stenungsundsbi.se/blandat.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 44 seconds : 188 links scanned, 230 files written (89003126 bytes overall) [47696373 bytes received at 212930 bytes/sec], 1707994 bytes transferred using HTTP compression in 44 files, ratio 16%, 2.7 requests per connection
+(7 errors, 15 warnings, 0 messages)
