@@ -4,7 +4,7 @@
  */
 @font-face {
 font-family:'Rubik', sans-serif;
-src: C:\Users\MattssonEmil\Desktop\BIN2022\themes\bin2022\Quicksand,Red_Hat_Mono,Rubik;
+src: url(Quicksand,Red_Hat_Mono,Rubik);
 }
 body {
     font-family: 'Rubik', sans-serif;
