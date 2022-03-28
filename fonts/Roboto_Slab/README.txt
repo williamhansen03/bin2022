@@ -1,28 +1,26 @@
-Red Hat Mono Variable Font
-==========================
+Roboto Slab Variable Font
+=========================
 
-This download contains Red Hat Mono as both variable fonts and static fonts.
+This download contains Roboto Slab as both a variable font and static fonts.
 
-Red Hat Mono is a variable font with this axis:
+Roboto Slab is a variable font with this axis:
   wght
 
-This means all the styles are contained in these files:
-  Red_Hat_Mono/RedHatMono-VariableFont_wght.ttf
-  Red_Hat_Mono/RedHatMono-Italic-VariableFont_wght.ttf
+This means all the styles are contained in a single file:
+  RobotoSlab-VariableFont_wght.ttf
 
 If your app fully supports variable fonts, you can now pick intermediate styles
 that aren’t available as static fonts. Not all apps support variable fonts, and
-in those cases you can use the static font files for Red Hat Mono:
-  Red_Hat_Mono/static/RedHatMono-Light.ttf
-  Red_Hat_Mono/static/RedHatMono-Regular.ttf
-  Red_Hat_Mono/static/RedHatMono-Medium.ttf
-  Red_Hat_Mono/static/RedHatMono-SemiBold.ttf
-  Red_Hat_Mono/static/RedHatMono-Bold.ttf
-  Red_Hat_Mono/static/RedHatMono-LightItalic.ttf
-  Red_Hat_Mono/static/RedHatMono-Italic.ttf
-  Red_Hat_Mono/static/RedHatMono-MediumItalic.ttf
-  Red_Hat_Mono/static/RedHatMono-SemiBoldItalic.ttf
-  Red_Hat_Mono/static/RedHatMono-BoldItalic.ttf
+in those cases you can use the static font files for Roboto Slab:
+  static/RobotoSlab-Thin.ttf
+  static/RobotoSlab-ExtraLight.ttf
+  static/RobotoSlab-Light.ttf
+  static/RobotoSlab-Regular.ttf
+  static/RobotoSlab-Medium.ttf
+  static/RobotoSlab-SemiBold.ttf
+  static/RobotoSlab-Bold.ttf
+  static/RobotoSlab-ExtraBold.ttf
+  static/RobotoSlab-Black.ttf
 
 Get started
 -----------
@@ -63,7 +61,7 @@ Android Apps
 
 License
 -------
-Please read the full license text (OFL.txt) to understand the permissions,
+Please read the full license text (LICENSE.txt) to understand the permissions,
 restrictions and requirements for usage, redistribution, and modification.
 
 You can use them freely in your products & projects - print or digital,
