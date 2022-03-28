@@ -2,7 +2,6 @@
  * @file
  * Subtheme specific CSS.
  */
-<style type="text/css">
 @font-face {
 font-family:'Rubik', sans-serif;
 src: url(Quicksand,Red_Hat_Mono,Rubik);
@@ -10,7 +9,3 @@ src: url(Quicksand,Red_Hat_Mono,Rubik);
 body {
     font-family: 'Rubik', sans-serif;
 }
-p{
-    font-family: 'Rubik', sans-serif;
-}
-</style>
