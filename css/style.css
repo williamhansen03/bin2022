@@ -1,4 +1,62 @@
-/**
- * @file
- * Subtheme specific CSS.
- */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap');
+
+
+
+
+ 
+/*     Huvudmenyn      */
+a{
+    font-family: 'Roboto', sans-serif;
+}
+
+a.nav-link{
+    color: black;
+    width: 8em;
+    margin-left: 20px;
+}
+
+
+/* Dropdown Menu */
+ul.dropdown-menu.show{
+    background-color: #444;
+}
+
+ul.dropdown-menu.show a{
+    color: white;
+}
+
+li.dropdown-item:hover{
+    background-color: #F6E000;
+}
+
+li.dropdown-item a:hover{
+    color: black;
+}
+
+
+/* Sökrutan */
+div#block-bin2022-search{
+    display: flex;
+}
+
+div#block-bin2022-search h2{
+    font-size: 20px;
+    margin-top: 9px;
+}
+.content.container-inline{
+    height: 5px;
+    order:1;
+}
+
+div#edit-actions, input#edit-keys{
+    height: 90%;
+    padding-bottom: 2px;
+}
+
+button#edit-submit{
+    background-color: #F6E000;
+    border-color: black;
+    color: black;
+}
+
+
