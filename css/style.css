@@ -1,15 +1,17 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap');
 
 
 
 
- 
-/*     Huvudmenyn      */
-a{
+
+
+
+ /*     Huvudmenyn      */
+ a{
     font-family: 'Roboto', sans-serif;
 }
 
-a.nav-link{
+ a.nav-link{
     color: black;
     width: 8em;
     margin-left: 20px;
@@ -35,16 +37,17 @@ li.dropdown-item a:hover{
 
 
 /* Sökrutan */
-div#block-bin2022-search{
+
+section.row.region.region-header-form div{
     display: flex;
 }
 
-div#block-bin2022-search h2{
+section.row.region.region-header-form div h2{
     font-size: 20px;
     margin-top: 9px;
 }
 .content.container-inline{
-    height: 5px;
+    height: 2.5em;
     order:1;
 }
 
@@ -57,6 +60,10 @@ button#edit-submit{
     background-color: #F6E000;
     border-color: black;
     color: black;
+}
+
+header #search-block-form{
+    margin-top: -1.3em;
 }
 
 
