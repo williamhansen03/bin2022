@@ -2,3 +2,22 @@
  * @file
  * Subtheme specific CSS.
  */
+
+ .card-text {
+   color: #EEE5E9;
+ }
+
+ .card-title {
+    font-size: 1.5em;
+    color: #EEE5E9;
+    text-decoration: underline;
+ }
+
+ .card-body {
+    background-color: #6D9F71;
+
+ }
+
+ 
+
+ 
