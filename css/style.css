@@ -1,7 +1,5 @@
-/**
- * @file
- * Subtheme specific CSS.
- */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap');
+
 
  .card-text {
    color: #EEE5E9;
@@ -21,3 +19,67 @@
  
 
  
+
+
+
+
+ /*     Huvudmenyn      */
+ a{
+    font-family: 'Roboto', sans-serif;
+}
+
+ a.nav-link{
+    color: black;
+    width: 8em;
+    margin-left: 20px;
+}
+
+
+/* Dropdown Menu */
+ul.dropdown-menu.show{
+    background-color: #444;
+}
+
+ul.dropdown-menu.show a{
+    color: white;
+}
+
+li.dropdown-item:hover{
+    background-color: #F6E000;
+}
+
+li.dropdown-item a:hover{
+    color: black;
+}
+
+
+/* Sökrutan */
+
+section.row.region.region-header-form div{
+    display: flex;
+}
+
+section.row.region.region-header-form div h2{
+    font-size: 20px;
+    margin-top: 9px;
+}
+.content.container-inline{
+    height: 2.5em;
+    order:1;
+}
+
+div#edit-actions, input#edit-keys{
+    height: 90%;
+    padding-bottom: 2px;
+}
+
+button#edit-submit{
+    background-color: #F6E000;
+    border-color: black;
+    color: black;
+}
+
+header #search-block-form{
+    margin-top: -1.3em;
+}
+
