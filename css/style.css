@@ -1,7 +1,24 @@
- @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap');
 
 
+ .card-text {
+   color: #EEE5E9;
+ }
 
+ .card-title {
+    font-size: 1.5em;
+    color: #EEE5E9;
+    text-decoration: underline;
+ }
+
+ .card-body {
+    background-color: #6D9F71;
+
+ }
+
+ 
+
+ 
 
 
 
@@ -36,7 +53,7 @@ li.dropdown-item a:hover{
 }
 
 
-/* Sökrutan */
+/* SÃ¶krutan */
 
 section.row.region.region-header-form div{
     display: flex;
@@ -65,5 +82,4 @@ button#edit-submit{
 header #search-block-form{
     margin-top: -1.3em;
 }
-
 
