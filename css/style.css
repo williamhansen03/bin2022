@@ -14,3 +14,14 @@ body {
 .center {
     margin: 0 auto;
 }
+#CollapsingNavbar{
+display: flex;
+flex-direction: row-reverse;
+}
+#edit-keys{
+background-color: #EEE5E9;
+}
+.col { 
+background-color: #EEE5E9;
+border-radius: 0.25rem!important;
+}
