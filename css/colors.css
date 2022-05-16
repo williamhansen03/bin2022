@@ -1,5 +1,16 @@
 /* ---------- Color Module Styles ----------- */
 
+/**
+--cadet-blue-crayola: #96adc8ff;
+--black-coffee: #3c3744ff;
+--forest-green-crayola: #6d9f71ff;
+--orange-yellow: #f3b61fff;
+--lavender-blush: #eee5e9ff;
+ */
+
+
+
+
 body {
   color: #3C3744;
   background: #6D9F71;
@@ -78,6 +89,18 @@ a:active,
 
 .site-footer {
   background: #6D9F71;
+
+  background: #6d9f71ff;
+  margin: auto 2em 1em 2em;
+}
+
+footer .container{
+  background: #f3b61fff;
+  padding: 0 2em;
+}
+
+.site-footer__bottom{
+  margin-top: 0;
 }
 
 .region-header,
@@ -123,6 +146,7 @@ color: #EEE5E9;
   font-size: 1.071em;
   line-height: 1.2;
 }
+
 h2{
 color:#3C3744;
 }
@@ -138,3 +162,4 @@ color:#3C3744;
 div a {
   color:#3C3744;
 }
+
