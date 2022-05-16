@@ -63,12 +63,17 @@ a:active,
 
 .btn-primary {
   background-color: #3C3744;
-  border-color: #3C3744;
+  
+}
+
+.btn-primary p {
+  color: back;
+
 }
 
 .btn-primary:hover,
 .btn-primary:focus {
-  background-color: #3C3744;
+  background-color: #F3B61F;
 }
 
 .site-footer {
@@ -108,6 +113,7 @@ color: #3C3744;
 }
 .btn-primary {
 color: #EEE5E9;
+
 }
 .sidebar h2 {
   margin: 0 0 0.5em;
