@@ -1,5 +1,37 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap');
+/**
+ * @file
+ * Subtheme specific CSS.
+ */
+body {
+    font-family: 'Roboto Slab', serif;
+}
 
+@font-face {
+    font-family: 'Roboto Slab';
+    src: url("../bin2022\fonts\Roboto_Slab\RobotoSlab-VariableFont_wght.ttf")
+}
+
+.center {
+    margin: 0 auto;
+}
+#CollapsingNavbar{
+display: flex;
+flex-direction: row-reverse;
+}
+#edit-keys{
+background-color: #EEE5E9;
+}
+.views-row { 
+background-color: #EEE5E9;
+border-radius: 0.25rem!important;
+}
+#navbar-top{
+    flex-direction: row-reverse;
+}
+.image-style-medium {
+    width: 100%;
+    height: 300px;
+}
 
  .card-text {
    color: #EEE5E9;
@@ -7,14 +39,9 @@
 
  .card-title {
     font-size: 1.5em;
-    color: #EEE5E9;
     text-decoration: underline;
  }
 
- .card-body {
-    background-color: #6D9F71;
-
- }
 
  
 
@@ -72,9 +99,4 @@ div#edit-actions, input#edit-keys{
     padding-bottom: 2px;
 }
 
-button#edit-submit{
-    background-color: #F6E000;
-    border-color: black;
-    color: black;
-}
 

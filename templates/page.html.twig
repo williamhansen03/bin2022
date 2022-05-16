@@ -70,6 +70,7 @@
 #}
 
 {% block head %}
+
         {% if page.secondary_menu or page.top_header or page.top_header_form %}
           <nav{{ navbar_top_attributes }}>
           {% if container_navbar %}
@@ -113,6 +114,9 @@
 {% endblock %}
 
 {% block content %}
+<div class="bg-secondary ">
+<img src="/themes/bin2022/bilder/omslag.png" class="d-block center rounded" alt="...">
+</div>
 
 
 
@@ -141,6 +145,8 @@
             {% endif %}
           </div>
         </div>
+
+        
 {% endblock %}
 
 {% block footer %}
