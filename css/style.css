@@ -69,7 +69,6 @@ section.row.region.region-header-form div h2{
 }
 
 div#edit-actions, input#edit-keys{
-    height: 90%;
     padding-bottom: 2px;
 }
 
@@ -77,9 +76,5 @@ button#edit-submit{
     background-color: #F6E000;
     border-color: black;
     color: black;
-}
-
-header #search-block-form{
-    margin-top: -1.3em;
 }
 
