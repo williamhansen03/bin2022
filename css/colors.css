@@ -2,14 +2,14 @@
 
 body {
   color: #3C3744;
-  background: #EEE5E9;
+  background: #6D9F71;
 }
 
 #page,
 #main-wrapper,
 .region-primary-menu .menu-item a.is-active,
 .region-primary-menu .menu-item--active-trail a {
-  background:#EEE5E9;
+  background:#6D9F71;
 }
 
 .tabs ul.primary li a.is-active {
@@ -72,7 +72,7 @@ a:active,
 }
 
 .site-footer {
-  background: #EEE5E9;
+  background: #6D9F71;
 }
 
 .region-header,
@@ -116,4 +116,19 @@ color: #EEE5E9;
   text-shadow: 0 0px 0 #fff;
   font-size: 1.071em;
   line-height: 1.2;
+}
+h2{
+color:#3C3744;
+}
+p{
+  color:#3C3744;
+}
+h1 {
+color:#3C3744;
+}
+.node--view-mode-teaser h2 a {
+  color:#3C3744;
+}
+div a {
+  color:#3C3744;
 }

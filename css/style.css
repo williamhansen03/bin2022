@@ -2,3 +2,33 @@
  * @file
  * Subtheme specific CSS.
  */
+body {
+    font-family: 'Roboto Slab', serif;
+}
+
+@font-face {
+    font-family: 'Roboto Slab';
+    src: url("../bin2022\fonts\Roboto_Slab\RobotoSlab-VariableFont_wght.ttf")
+}
+
+.center {
+    margin: 0 auto;
+}
+#CollapsingNavbar{
+display: flex;
+flex-direction: row-reverse;
+}
+#edit-keys{
+background-color: #EEE5E9;
+}
+.views-row { 
+background-color: #EEE5E9;
+border-radius: 0.25rem!important;
+}
+#navbar-top{
+    flex-direction: row-reverse;
+}
+.image-style-medium {
+    width: 100%;
+    height: 300px;
+}
