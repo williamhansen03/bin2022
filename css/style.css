@@ -7,8 +7,8 @@ body {
 }
 
 @font-face {
-    font-family: 'Roboto Slab'
-    src: url("../bin2022\fonts\Roboto_Slab\RobotoSlab-VariableFont_wght.ttf")),
+    font-family: 'Roboto Slab';
+    src: url("../bin2022\fonts\Roboto_Slab\RobotoSlab-VariableFont_wght.ttf")
 }
 
 .center {
@@ -21,7 +21,7 @@ flex-direction: row-reverse;
 #edit-keys{
 background-color: #EEE5E9;
 }
-.col { 
+.views-row { 
 background-color: #EEE5E9;
 border-radius: 0.25rem!important;
 }
